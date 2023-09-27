@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: react-app
-          image: maninitesh/argocd-demo:4208772fba76591c3bd5a5ba7fb45419d1e8962c
+          image: maninitesh/argocd-demo:df6a192f1cbc5ffa8c986c333d4739e45f76e5c6
           imagePullPolicy: Always
           ports:
             - containerPort: 80
